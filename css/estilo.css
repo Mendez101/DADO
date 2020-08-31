@@ -1,0 +1,59 @@
+body {
+  background-color: #4b692f;
+}
+h1 {
+  color: #ad6500;
+  text-align: center;
+}
+h2,
+h3 {
+  color: #bfa335;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px;
+  font-size: 5em;
+  font-family: "Lobster", cursive !important;
+  text-shadow: 5px 0 black;
+  position: relative;
+  top: 10px;
+  left: -40px;
+}
+h2 {
+  font-size: 2rem;
+  position: relative;
+  top: -240px;
+  left: 100px;
+}
+.to {
+  font-size: 2rem;
+  position: relative;
+  top: 10px;
+  left: -200px;
+}
+
+.boton {
+  height: 150px;
+  width: 600px;
+  position: relative;
+  top: -100px;
+  left: 600px;
+  font-family: "Lobster", cursive !important;
+}
+
+.dodo {
+  height: 150px;
+  width: 600px;
+  position: relative;
+  top: 0px;
+  left: 650px;
+}
+
+.dodo2 {
+  height: 150px;
+  width: 600px;
+  position: relative;
+  top: -240px;
+  left: 350px;
+}
